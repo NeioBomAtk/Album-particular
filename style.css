@@ -5,7 +5,7 @@ body {
     color: #000000;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
-    background: #ffffff;
+    background-image: linear-gradient(#e2d6d6, #7e7a7a);
 }
 
 a {
@@ -187,7 +187,6 @@ button.btn:hover {
 /**********************************/
 .brand {
     margin: 15px 0;
-    background: #ffffff;
 }
 
 .brand .b-logo {
@@ -704,10 +703,10 @@ button.btn:hover {
 }
 
 .main-news .mn-list h2 {
-    color: #000000;
+    color: #eeeeee;
     margin-bottom: 30px;
     padding-bottom: 15px;
-    border-bottom: 3px double #000000;
+    border-bottom: 3px double #eeeeee;
 }
 
 .main-news .mn-list ul {
